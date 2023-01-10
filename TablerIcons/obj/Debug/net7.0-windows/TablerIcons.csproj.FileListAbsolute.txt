@@ -1,0 +1,12 @@
+E:\Programming\opensource\TablerIcons\TablerIcons\bin\Debug\net7.0-windows\TablerIcons.deps.json
+E:\Programming\opensource\TablerIcons\TablerIcons\bin\Debug\net7.0-windows\TablerIcons.dll
+E:\Programming\opensource\TablerIcons\TablerIcons\bin\Debug\net7.0-windows\TablerIcons.pdb
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.csproj.AssemblyReference.cache
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.AssemblyInfoInputs.cache
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.AssemblyInfo.cs
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.csproj.CoreCompileInputs.cache
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.dll
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\refint\TablerIcons.dll
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\TablerIcons.pdb
+E:\Programming\opensource\TablerIcons\TablerIcons\obj\Debug\net7.0-windows\ref\TablerIcons.dll
